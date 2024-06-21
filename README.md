@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilu1002&label=Profile%20views&color=0e75b6&style=flat" alt="nilu1002" /> </p>
 
-- 🔭 I’m currently a **4th Year UnderGraduate at IIT(BHU) Varanasi**
+- 🔭 I’m currently a **4th Year UnderGraduate at IIT (BHU) Varanasi**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning**
 
