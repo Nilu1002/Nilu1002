@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Niladri Mondal</h1>
-<h3 align="center">A passionate Software Engineer with a keen interest in AI/ML</h3>
+<h3 align="center">A passionate Software Engineer with a keen interest in Backend Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilu1002&label=Profile%20views&color=0e75b6&style=flat" alt="nilu1002" /> </p>
 
-- 🔭 I’m currently a **4th Year UnderGraduate at IIT (BHU) Varanasi**
+- 🔭 I’m currently a **5th Year UnderGraduate at IIT (BHU) Varanasi**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **C++, Backend Development**
 
 - 📫 How to reach me **niladrimondal1002@gmail.com**
 
